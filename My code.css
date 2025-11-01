@@ -1,4 +1,6 @@
 :root {
+  --color1: #cd664c;
+  --color2 : #89b482;  
   /* APP ELEMENTS */
   --app-blur: 6px;
   --app-margin: 24px;
