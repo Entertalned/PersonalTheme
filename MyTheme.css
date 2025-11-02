@@ -1,7 +1,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Impact:wght@100;300;400;500;700&display=swap');
 @import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/BasicBackground.css');
-
+/*Gif image link if you want the background to be a gif instead: --background: url('https://i.imgur.com/dEzp0nF.gif');*/
 :root {
   --background: url('https://i.imgur.com/OHg0AXR.png');
   --backgroundsize: cover;
