@@ -1,3 +1,6 @@
+
+<img width="1920" height="1080" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/6ed5e176-4b78-494e-abe4-378ad164a02d" />
+
 ## Discord Personal Theme
 <p>Code to a theme I edited for my personal likeing.</p>
 
@@ -20,3 +23,4 @@
 ## Credit
 <li><a href="https://bdeditor.dev/themes">Theme Editor</li>
 <li><a href="https://betterdiscord.app/theme/BasicBackground">Better Discord Theme</a> by <a href="https://betterdiscord.app/developer/DevilBro"> Devilbro</li>
+
